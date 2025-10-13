@@ -1,1 +1,1 @@
-# food_insecurity_project
+# food-insecurity-project
