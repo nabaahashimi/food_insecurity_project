@@ -13,3 +13,13 @@ This page hosts my Milestone 1 and Milestone 2 analyses on food insecurity in th
 
 ▶️ **Open Milestone 2 directly in Google Colab:**  
 [Open in Colab](https://colab.research.google.com/github/nabaahashimi/food_insecurity_project/blob/main/NabaaProjectMilestone2.ipynb)
+
+
+### Dataset Download (Hosted Externally)
+
+Because the full dataset is too large to store directly in this GitHub repository, it is hosted on Google Drive.
+
+🔗 [Download CDC PLACES Dataset](https://drive.google.com/file/d/1-AvkMrvFW-xpbhvbvM_wj-utoQ-iZwat/view?usp=drive_link)
+
+🔗 [Download Food Environmental Atlast]([https://drive.google.com/file/d/1-AvkMrvFW-xpbhvbvM_wj-utoQ-iZwat/view?usp=drive_link](https://docs.google.com/spreadsheets/d/1yNnNDlYHD_iB8Rtv_4hh4HGxvopD7ZXv/edit?usp=drive_link&ouid=111707967535285639563&rtpof=true&sd=true))
+
